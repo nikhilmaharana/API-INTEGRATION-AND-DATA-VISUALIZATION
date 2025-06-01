@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-API_KEY = "9cae43e507260ca2b6ec77b1f150c2c0"  # Your valid API key
+API_KEY = ""  # My API KEY, I Can's Expose here
 
 cities = ["Bhubaneswar", "Delhi", "Mumbai", "Chennai", "Kolkata", "Bangalore", "Hyderabad"]
 
